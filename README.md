@@ -30,5 +30,7 @@ python3 main.py
 ![Emoji support](assets/emoji_support.png)
 
 ![Tab Sorting](assets/tab_sorting.png)
+`Drag to sort/reorder the tabs`
 
 ![Tab Renaming](assets/tab_renaming.png)
+`Double click the note you want to rename`
